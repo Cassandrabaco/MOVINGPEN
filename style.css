@@ -22,7 +22,7 @@ body {
 }
 
 #pencil img {
-    width: 250px; /* Adjust the size of the pencil as needed */
+    width: 100px; /* Adjust the size of the pencil as needed */
     pointer-events: none; /* Ensure the GIF does not interfere with mouse events */
 }
 
